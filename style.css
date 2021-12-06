@@ -1,0 +1,27 @@
+body{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(45, 46, 49);
+    font-size: 18px;
+}
+.Nome{
+    background-color: rgb(71, 70, 70);
+    border: solid 2px rgb(0, 0, 0); 
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.Contato{
+    text-align: left;
+    background-color: rgb(71, 70, 70);
+    border-radius: 20px;
+    padding: 15px;
+    border: solid 2px #000
+}
+a:hover {
+    color: white;
+}
+a:link {
+    
+    text-decoration: none;
+}
