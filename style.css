@@ -15,11 +15,12 @@ body{
 #insta{
     width: 25px;
 }
-#twitter{
-    width: 25px;
-}
+
 #linkedin{
-    width: 30px;
+    width: 35px;
+}
+#github{
+    width: 40px;
 }
 .Contato{
     text-align: left;
