@@ -1,22 +1,25 @@
+
 body{
-    
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: rgb(45, 46, 49);
     font-size: 18px;
 }
 .Portifolio{
-    background-color: rgb(71, 70, 70);
-    border: solid 2px rgb(0, 0, 0); 
-    border-radius: 20px;
-    padding: 20px;
+   background-color:  rgb(71, 70, 70);
     text-align: center;
+    border-radius: 20px;
+    border: solid 2px black;
     font-size: 50px;
+    padding: 15px;
 }
 #insta{
     width: 25px;
 }
 #twitter{
     width: 25px;
+}
+#linkedin{
+    width: 30px;
 }
 .Contato{
     text-align: left;
@@ -34,7 +37,8 @@ a:link {
     text-decoration: none;
 }
 #Victor{
-width: 200px;
+width: 210px;
+border-radius: 10px;
 
 }
 .Contato .Nome{
