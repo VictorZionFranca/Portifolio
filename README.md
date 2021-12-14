@@ -1,2 +1,2 @@
 # Portif-lio
-portifolio-victorzionfranca.netlify.app
+https://portifolio-victorzionfranca.netlify.app
