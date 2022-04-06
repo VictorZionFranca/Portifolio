@@ -19,7 +19,7 @@ body{
     position: relative;
 }
 .eliti:hover{
-    top: -4px;border-bottom: 2px solid white;
+    top: -4px;border-bottom: 2px;
     transition: all .2s ease-in-out;
 }
 #insta{
@@ -29,7 +29,7 @@ body{
     position: relative;
 }
 .insta:hover{
-    top: -4px;border-bottom: 2px solid white;
+    top: -4px;border-bottom: 2px;
     transition: all .2s ease-in-out;
 }
 #linkedin{
@@ -39,7 +39,7 @@ body{
     position: relative;
 }
 .linkedin:hover{
-    top: -4px;border-bottom: 2px solid white;
+    top: -4px;border-bottom: 2px;
     transition: all .2s ease-in-out;
 }
 #github{
@@ -49,7 +49,7 @@ body{
     position: relative;
 }
 .github:hover{
-    top: -4px;border-bottom: 2px solid white;
+    top: -4px;border-bottom: 2px;
     transition: all .2s ease-in-out;
 }
 .Contato{
