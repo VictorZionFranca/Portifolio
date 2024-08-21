@@ -11062,6 +11062,11 @@ footer.footer .social-link:hover {
   font-weight: 300;
   font-size: 1.2rem;
 }
+@media (max-width: 991px) {
+  .top{
+    margin-top: 50px;
+  }
+}
 @media (min-width: 992px) {
   .portfolio-item {
     max-width: none;
