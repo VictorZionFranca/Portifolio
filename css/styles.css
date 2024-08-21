@@ -10831,8 +10831,8 @@ html {
 }
 
 .content-section {
-  padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
+  padding-top: 6.5rem;
+  padding-bottom: 6.5rem;
 }
 
 .content-section-heading h2, .content-section-heading .h2 {
@@ -10877,7 +10877,7 @@ html {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #212529;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -11014,7 +11014,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(0deg, rgba(255,255,255,1) 2%, rgba(29,128,159,1) 50%);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
