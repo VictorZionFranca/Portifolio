@@ -3434,6 +3434,20 @@ textarea.form-control-lg {
   vertical-align: 0;
 }
 
+.header-section {
+    min-height: 60rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .dropdown-divider {
   height: 0;
   margin: var(--bs-dropdown-divider-margin-y) 0;
@@ -10856,14 +10870,14 @@ html {
   height: 50px;
   text-align: center;
   color: #fff;
-  background: rgba(52, 58, 64, 0.5);
+  background: rgba(0, 0, 0, 0.4);
   line-height: 50px;
 }
 .scroll-to-top:focus, .scroll-to-top:hover {
   color: #fff;
 }
 .scroll-to-top:hover {
-  background: #343a40;
+  background: rgba(0, 0, 0, 0.6);
 }
 .scroll-to-top i {
   font-weight: 800;
@@ -10982,13 +10996,14 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #fff;
+  color: #212529;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 footer.footer .social-link:hover {
-  background-color: #155d74;
-  text-decoration: none;
+   background-color: #ced4da;
+    color: #000;
 }
 
 .map {
@@ -11105,7 +11120,7 @@ footer.footer .social-link:hover {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #212529;
   height: 7rem;
   width: 7rem;
   display: block;
